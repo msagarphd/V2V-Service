@@ -1,0 +1,13 @@
+/* DashboardPage.css */
+.dashboard {
+    padding: 20px;
+  }
+  
+  .dashboard h2 {
+    color: #333;
+  }
+  
+  .dashboard p {
+    margin-bottom: 10px;
+  }
+  
